@@ -1,4 +1,4 @@
-# Calculator.py
+# Calculator and Simple snake game using python
 
 A simple calculator created with python.
 
