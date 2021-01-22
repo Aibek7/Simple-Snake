@@ -1,9 +1,7 @@
-# Calculator and Simple snake game using python
+# Simple snake game using python
 
-A simple calculator created with python.
+A simple snake game created with python.
 
-![](images/Снимок.PNG)
-![](images/Снимок1.PNG)
 
 ![](images/snake.PNG)
 ![](images/snakle1.PNG)
